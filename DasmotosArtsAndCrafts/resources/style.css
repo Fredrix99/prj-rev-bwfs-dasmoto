@@ -1,0 +1,31 @@
+html {
+  font-family:Helvetica;
+}
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color:white;
+}
+strong {
+  font-weight: bold;
+  color: blue;
+}
+
+#Dasmoto {
+  font-size: 100px;
+  font-weight:bold;
+  color:khaki;
+  text-align:center;
+  background-image: url("./img/pattern.jpeg");
+}
+
+#brushes{
+background-color: mediumspringgreen;
+}
+
+#frames {
+  background-color: lightcoral;
+}
+#paint {
+  background-color: skyblue;
+}
